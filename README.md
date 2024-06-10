@@ -3,7 +3,6 @@
 - I’m interested in ML, cloud & cybersecurity.
 - I’m currently learning ML, AWS SAA and cybersecurity(Tryhackme & Hackthebox) 
 - Feel free to ping me.
-- I’m looking to collaborate on anything tech.
 
 <!---
 wajidengg/wajidengg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
